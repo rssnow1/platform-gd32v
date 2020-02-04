@@ -54,7 +54,7 @@
             "optional": true,
             "version": "~0.1.0"
         },
-        "toolchain-gd32v": {
+        "riscv32-toolchain-rss": {
             "type": "toolchain",
             "version": "~9.2.0"
         }
